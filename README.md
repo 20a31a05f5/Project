@@ -1,7 +1,7 @@
 
 # ✨ Opulent Aura ✨
 
-This is a web based application developed for health related cased website in india
+This is a web based application developed for health related based website in India
 
 ## This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
