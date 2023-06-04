@@ -3,7 +3,7 @@
 
 This is a web based application developed for health related cased website in india
 
-## This web based health application has been developed for the accomplishment of Fature Ready Talent Internship program launched by Microsoft, Future Skills Prime, Qu Github and EY
+## This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Qu Github and EY
 
 **Project Link ** - https://green-desert-0b9a69300.3.azurestaticapps.net/
 ** Project demo video link -  https://youtu.be/x3KWmveHILY
