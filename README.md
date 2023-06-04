@@ -44,13 +44,13 @@ This is a web based application developed for health related cased website in in
 
 ![Screenshot (6)](https://github.com/20a31a05f5/Project/assets/109792954/3e873720-7b2c-4246-bac1-8e7d7047f390)
 
-## Tech Stack
+### Tech Stack
 
-Azure(Hosting)
-HTML
-CSS
-Bootstrap
-JavaScript
+-Azure(Hosting)
+-HTML
+-CSS
+-Bootstrap
+-JavaScript
 
 
 
